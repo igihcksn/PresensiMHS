@@ -1,0 +1,9 @@
+D:\DataKu\Smester 3\PEMROG LANJUT\login & register\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\DataKu\Smester 3\PEMROG LANJUT\login & register\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\DataKu\Smester 3\PEMROG LANJUT\login & register\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\DataKu\Smester 3\PEMROG LANJUT\login & register\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\DataKu\Smester 3\PEMROG LANJUT\login & register\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\DataKu\Smester 3\PEMROG LANJUT\login & register\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\DataKu\Smester 3\PEMROG LANJUT\login & register\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\DataKu\Smester 3\PEMROG LANJUT\login & register\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\DataKu\Smester 3\PEMROG LANJUT\login & register\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
