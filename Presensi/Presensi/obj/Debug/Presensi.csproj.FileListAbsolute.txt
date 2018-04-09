@@ -1,0 +1,11 @@
+D:\DataKu\Smester 3\PEMROG LANJUT\Presensi\Presensi\bin\Debug\Presensi.exe.config
+D:\DataKu\Smester 3\PEMROG LANJUT\Presensi\Presensi\bin\Debug\Presensi.exe
+D:\DataKu\Smester 3\PEMROG LANJUT\Presensi\Presensi\bin\Debug\Presensi.pdb
+D:\DataKu\Smester 3\PEMROG LANJUT\Presensi\Presensi\obj\Debug\Presensi.csprojResolveAssemblyReference.cache
+D:\DataKu\Smester 3\PEMROG LANJUT\Presensi\Presensi\obj\Debug\Presensi.Properties.Resources.resources
+D:\DataKu\Smester 3\PEMROG LANJUT\Presensi\Presensi\obj\Debug\Presensi.csproj.GenerateResource.Cache
+D:\DataKu\Smester 3\PEMROG LANJUT\Presensi\Presensi\obj\Debug\Presensi.exe
+D:\DataKu\Smester 3\PEMROG LANJUT\Presensi\Presensi\obj\Debug\Presensi.pdb
+D:\DataKu\Smester 3\PEMROG LANJUT\Presensi\Presensi\obj\Debug\Presensi.View.FrmLogin.resources
+D:\DataKu\Smester 3\PEMROG LANJUT\Presensi\Presensi\obj\Debug\Presensi.View.FrmMateri.resources
+D:\DataKu\Smester 3\PEMROG LANJUT\Presensi\Presensi\obj\Debug\Presensi.View.FrmPresensi.resources
